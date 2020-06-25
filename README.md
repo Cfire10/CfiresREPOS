@@ -1,3 +1,3 @@
 # Discord DM Spam Bot
-Creates a virtual keyboard input so you can spam DMs and Servers
-Works with images and text
+<p>Creates a virtual keyboard input so you can spam DMs and Servers</p>
+<p>Works with images and text</p>
